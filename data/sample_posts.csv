@@ -1,0 +1,14 @@
+id,timestamp,source,topic,content,cleaned_content,sentiment,confidence
+1,2026-11-01 08:30:00,CMC Confessions,Cơ sở vật chất,"CSVC trường mik xịn sò thực sự, phòng lab máy cấu hình cao học AI mượt lun!",cơ_sở_vật_chất trường mình rất tốt thực_sự phòng thực_hành máy cấu_hình cao học ai mượt luôn,Tích cực,0.94
+2,2026-11-01 10:15:00,Hội Sinh Viên CMC,Hệ thống CNTT,"Web dkmh hôm nay lag quá, quay đều từ sáng ko đk đc môn nào hết huhu",web đăng_ký môn_học hôm_nay chậm quá quay đều từ sáng không đăng_ký được môn nào hết huhu,Tiêu cực,0.92
+3,2026-11-02 09:00:00,CMC Confessions,Giảng viên,"Thầy dạy Cấu trúc dữ liệu nhiệt tình cực, giảng dễ hiểu, sv hỏi j cx giải đáp kỹ.",thầy dạy cấu_trúc dữ_liệu nhiệt_tình cực giảng dễ hiểu sinh_viên hỏi gì cũng giải_đáp kỹ,Tích cực,0.96
+4,2026-11-02 14:20:00,Diễn đàn SV,Học vụ,"Cho mik hỏi lịch thi cuối kỳ học phần Toán rời rạc xem ở đâu z mn?",cho mình hỏi lịch thi cuối kỳ học_phần toán rời_rạc xem ở đâu vậy mọi người,Bình thường,0.88
+5,2026-11-03 11:45:00,CMC Confessions,Cơ sở vật chất,"Wifi tầng 4 hôm nay hơi chập chờn, tải tài liệu mãi ko xong, mong trường khắc phục sớm.",wifi tầng 4 hôm_nay hơi chập_chờn tải tài_liệu mãi không xong mong trường khắc_phục sớm,Tiêu cực,0.86
+6,2026-11-03 16:10:00,Hội Sinh Viên CMC,Hoạt động CLB,"Event chào tân sv tối qua cháy quá trời, âm thanh ánh sáng đỉnh của chóp!",sự_kiện chào tân sinh_viên tối qua cháy quá_trời âm_thanh ánh_sáng xuất_sắc của chóp,Tích cực,0.95
+7,2026-11-04 08:05:00,Diễn đàn SV,Học vụ,"Môn Nhập môn lập trình kỳ này có 3 tín chỉ bao gồm cả lý thuyết vs thực hành.",môn nhập_môn lập_trình kỳ này có 3 tín_chỉ bao_gồm cả lý_thuyết với thực_hành,Bình thường,0.91
+8,2026-11-04 12:30:00,CMC Confessions,Đời sống SV,"Canteen đồ ăn giá bt nhưng buổi trưa hơi đông, xếp hàng lấy cơm mất gần 20p hơi oải.",căng_tin đồ ăn giá bình_thường nhưng buổi trưa hơi đông xếp_hàng lấy cơm mất gần 20 phút hơi mệt_mỏi,Tiêu cực,0.81
+9,2026-11-05 15:00:00,Hội Sinh Viên CMC,Học bổng & Thực tập,"Trường tạo đk cho sv đi thực tập tại tập đoàn từ sớm, học xong có kinh nghiệm thực chiến lun.",trường tạo điều_kiện cho sinh_viên đi thực_tập tại tập_đoàn từ sớm học xong có kinh_nghiệm thực_chiến luôn,Tích cực,0.93
+10,2026-11-06 09:40:00,Diễn đàn SV,Học vụ,"Thủ tục xin giấy xác nhận sv làm trên cổng thông tin mất khoảng 2 ngày làm việc.",thủ_tục xin giấy xác_nhận sinh_viên làm trên cổng thông_tin mất khoảng 2 ngày làm_việc,Bình thường,0.89
+11,2026-11-06 18:20:00,CMC Confessions,Giảng viên,"Deadline dồn dập 4 môn cùng tuần, btvn nhiều quá làm ko kịp thở lun 😭",hạn_nộp_bài dồn_dập 4 môn cùng tuần bài_tập_về_nhà nhiều quá làm không kịp thở luôn,Tiêu cực,0.87
+12,2026-11-07 14:10:00,Hội Sinh Viên CMC,Cơ sở vật chất,"Thư viện trường yên tĩnh, điều hoà mát rượi, ngồi ôn thi cả ngày cực kỳ okela.",thư_viện trường yên_tĩnh điều_hòa mát_rượi ngồi ôn thi cả ngày cực_kỳ rất tốt,Tích cực,0.94
+
