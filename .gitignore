@@ -1,0 +1,26 @@
+# Mô hình PhoBERT đã fine-tune (>500MB - vượt giới hạn 100MB của GitHub)
+model/cmc_phobert_sentiment/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Môi trường ảo (Virtual environments)
+.venv/
+venv/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
